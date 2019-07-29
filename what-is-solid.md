@@ -1,1 +1,1 @@
-
+Solid is a technical specificatino describing how to build applications which are separate to data storage in such a way that it is possible for the user to seamlessly switch between applications and take the data generated while using the application along.
