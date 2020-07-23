@@ -18,6 +18,12 @@ Items that need to transformed into Solid compatible software include:
 
 Here is a [description of the scope of work and profile of the individual needed to build the dogfood Solid on Solid properties](https://github.com/solid/roadmap/blob/master/dogfooding.med). 
 
+There are several apps that need to be build as Solid compatible apps that would be used by the Solid Team, each of which will need a scope of work and profile of indiviual who could execute the task: 
+* Make a Solid Chat app including calling that is good enough to carry out the Solid specification development work 
+* Make a Solid app for Solid World invites that allows users to RSVP, get a calendar invite, and an email reminder a few hours before the webinar 
+* Make a Solid app for This Month in Solid newsletter 
+* Solid GitHub
+
 ## Testing Solid 
 
 The aim is to test if the Solid specification delivers interoperable Pod servers that are interoperable. The first phase of the test will be for technical interoperability the second phase of the test will be for usable interoperability. 
