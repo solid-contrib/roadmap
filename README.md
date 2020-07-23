@@ -4,6 +4,20 @@ The Solid roadmap explains the upcoming plans and needs of the various parties i
 
 The [Solid specification project board](https://github.com/solid/specification/projects/1) is the best place to keep up to date on how Solid development is evolving and what is in the pipeline. The Solid roadmap is not the place to read about Solid development however, the roadmap is a place to read about implementation of Solid. 
 
+# Dogfooding 
+
+Solid properties cover tools, systems, and services used for advancing the Solid. The Solid properties are currently maintained using third party software that is not per say Solid compatible. 
+
+The Dogfooding milestone is aimed at transforming the Solid properties to use Solid compatible software where possible as well as advance solidproject.org content for developers. 
+
+Items that need to transformed into Solid compatible software include: 
+* [Host solidproject.org on a Solid server](https://github.com/solid/solidproject.org/projects/1#card-41337384)
+* [Solid listings on solidproject.org should be in RDF](https://github.com/solid/solidproject.org/projects/1#card-41337497)
+* [Represent elements related to solid/process in RDF](https://github.com/solid/process/projects/1#card-41210779) 
+* Many more items of column of [solidproject.org kanban board](https://github.com/solid/solidproject.org/projects/1) called “to do once there are technical resources”   
+
+Here is a [description of the scope of work and profile of the individual needed to build the dogfood Solid on Solid properties](https://github.com/solid/roadmap/blob/master/dogfooding.med). 
+
 ## Testing Solid 
 
 The aim is to test if the Solid specification delivers interoperable Pod servers that are interoperable. The first phase of the test will be for technical interoperability the second phase of the test will be for usable interoperability. 
@@ -18,7 +32,7 @@ You can find the latest version of the [test suite here](https://github.com/soli
 First, the Editors will need to deliver a stable version of the Solid specification. The important element of this stage is to get one document that is a complete version of the Solid specification. If there are known problems these should be recorded but it should not block the delivery of a Solid specification to be tested because the problems can be discussed in practice later on during this test. 
 
 *1B.  Build a Solid test suite*
-Secondly a Solid test suite will need to be written based on the final version of the specification. The specification will need to remain static while the test suite is being written. Here is a description of the individuals needed to build the test suite. 
+Secondly a Solid test suite will need to be written based on the final version of the specification. The specification will need to remain static while the test suite is being written. Here is a [description of the scope of work and profile of the individual needed to build the test suite](https://github.com/solid/roadmap/blob/master/test-suite.md). 
 
 *1C. Interoperability PlugFest*
 Third, there will be a three day interoperability plugfest workshop with the aim to test the Solid specification using the test suite against various Solid servers built by different teams. The aim of the PlugFest is to run the test suite on  various Solid servers to highlight any areas where these servers are not complying. Each area where there is non compliance will be an item on the agenda to find out if the non-compliance is due to the server, test suite, or specification. Resolutions for each will need to be agreed upon between the parties involved. 
@@ -80,9 +94,7 @@ Task Completion by Testers:
 
 ### Conclusion
 
-# Dogfooding 
 
-#
 
 
 
