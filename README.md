@@ -18,7 +18,7 @@ You can find the latest version of the [test suite here](https://github.com/soli
 First, the Editors will need to deliver a stable version of the Solid specification. The important element of this stage is to get one document that is a complete version of the Solid specification. If there are known problems these should be recorded but it should not block the delivery of a Solid specification to be tested because the problems can be discussed in practice later on during this test. 
 
 *1B.  Build a Solid test suite*
-Secondly a Solid test suite will need to be written based on the final version of the specification. The specification will need to remain static while the test suite is being written.
+Secondly a Solid test suite will need to be written based on the final version of the specification. The specification will need to remain static while the test suite is being written. Here is a description of the individuals needed to build the test suite. 
 
 *1C. Interoperability PlugFest*
 Third, there will be a three day interoperability plugfest workshop with the aim to test the Solid specification using the test suite against various Solid servers built by different teams. The aim of the PlugFest is to run the test suite on  various Solid servers to highlight any areas where these servers are not complying. Each area where there is non compliance will be an item on the agenda to find out if the non-compliance is due to the server, test suite, or specification. Resolutions for each will need to be agreed upon between the parties involved. 
